@@ -1,15 +1,12 @@
 {
-  "name": "btn-api",
-  "version": "0.1.0",
-  "description": "btn-api",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/FLYBYME/btn-api.git"
-  },
-  "author": "",
-  "license": "MIT"
+	"name": "btn-api",
+	"version": "0.1.0",
+	"description": "btn-api",
+	"main": "lib/btn.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FLYBYME/btn-api.git"
+	},
+	"author": "",
+	"license": "MIT"
 }

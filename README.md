@@ -22,6 +22,11 @@ var btn = new Btn('your-magic-key')
 ```
 ##Usage
 
+Easy search
+```javascript
+btn.search().limit(1).container('mp4').resolution('sd').run(console.log)
+```
+
 Snatch list first argument is  how many to return
 ```javascript
 btn.getUserSnatchlist(50, console.log)

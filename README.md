@@ -26,6 +26,10 @@ Easy search
 ```javascript
 btn.search().limit(1).container('mp4').resolution('sd').run(console.log)
 ```
+Options for using search
+```javascript
+['id', 'series', 'name', 'search', 'codec', 'container', 'source', 'resolution', 'origin', 'limit']
+```
 
 Snatch list first argument is  how many to return
 ```javascript
